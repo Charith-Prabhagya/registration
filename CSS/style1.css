@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*    Registration   */
+
+.form{
+	margin: 20px;
+	background-color:#639;
+	margin-right: 200px;
+	margin-left: 200px;
+	padding: 30px;
+	border-radius:10px;
+}
+
+table.fr td{
+	padding: 5px;
+}
+
+#Reg{
+	color:#3C3;
+}
+
+/* -----------------------*/
+
